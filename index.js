@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from "react"
 import { requireNativeComponent, View } from "react-native";
 
-const RNMultiViewPager requireNativeComponent("RNMultiViewPager", MultiViewPager);
+const RNMultiViewPager = requireNativeComponent("RNMultiViewPager", MultiViewPager);
 
 class MultiViewPager extends Component {
 
