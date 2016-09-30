@@ -14,16 +14,18 @@ import com.facebook.react.bridge.JavaScriptModule;
 public class RNMultiViewPagerPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
-      return Arrays.<NativeModule>asList();
+        return Arrays.<NativeModule>asList();
     }
 
     @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
-      return Collections.emptyList();
+        return Collections.emptyList();
     }
 
     @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
-      return Arrays.<ViewManager>asList(new RNMultiViewPagerModule(reactContext));
+        return Arrays.<ViewManager>asList(
+                new RNMultiViewPagerModule()
+        );
     }
 }
