@@ -31,5 +31,8 @@
 ## Usage
 ```javascript
 import MultiViewPager from 'react-native-multi-view-pager';
+
+// TODO: What do with the module?
+MultiViewPager;
 ```
   

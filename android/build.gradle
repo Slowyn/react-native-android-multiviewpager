@@ -20,7 +20,6 @@ android {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:0.20.+'
-    compile 'com.pixplicity.multiviewpager:library:1.0'
+    compile 'com.facebook.react:react-native:+'
 }
   

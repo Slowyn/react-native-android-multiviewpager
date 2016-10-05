@@ -1,18 +1,81 @@
-
 {
-  "name": "react-native-multi-view-pager",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "react-native-multi-view-pager",
+        "scope": null,
+        "escapedName": "react-native-multi-view-pager",
+        "name": "react-native-multi-view-pager",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/developercomputer/Desktop/rn-modules/rnmvpExample"
+    ]
+  ],
+  "_from": "react-native-multi-view-pager@latest",
+  "_id": "react-native-multi-view-pager@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-multi-view-pager",
+  "_nodeVersion": "6.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-multi-view-pager-1.0.0.tgz_1475146223508_0.3636916761752218"
   },
+  "_npmUser": {
+    "name": "slowyn",
+    "email": "y231966mdk@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-multi-view-pager",
+    "scope": null,
+    "escapedName": "react-native-multi-view-pager",
+    "name": "react-native-multi-view-pager",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-multi-view-pager/-/react-native-multi-view-pager-1.0.0.tgz",
+  "_shasum": "9abbfc365e221b32cab907e21bf217d33199994d",
+  "_shrinkwrap": null,
+  "_spec": "react-native-multi-view-pager",
+  "_where": "/Users/developercomputer/Desktop/rn-modules/rnmvpExample",
+  "author": "",
+  "dependencies": {},
+  "description": "## Getting started",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9abbfc365e221b32cab907e21bf217d33199994d",
+    "tarball": "https://registry.npmjs.org/react-native-multi-view-pager/-/react-native-multi-view-pager-1.0.0.tgz"
+  },
+  "gitHead": "3a3a1ec5bc6d2e3cf13a90b85a21719892c0a110",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "slowyn",
+      "email": "y231966mdk@gmail.com"
+    }
+  ],
+  "name": "react-native-multi-view-pager",
+  "optionalDependencies": {},
   "peerDependencies": {
     "react-native": "^0.29.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
